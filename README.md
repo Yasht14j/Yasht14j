@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Yasht14j
-- 👀 I’m interested in Computer Science and Finance 
-- 🌱 I’m currently learning Harvard Cs50, Kotlin and Python
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Yasht14j a Rutgers University CS student
+- 📚 I have completed Harvard CS50
+- 👀 I’m interested in Computer Science and Econ/Stats 
+- 💞️ I’m looking to collaborate on projects 
+- 📫 How to reach me (732)-877-4939/findyasht@gmail.com
 
 <!---
 Yasht14j/Yasht14j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
